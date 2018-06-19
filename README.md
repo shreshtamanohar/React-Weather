@@ -1,6 +1,6 @@
 # React Weather App
 
-This is the companion code for the Beginner React series on the [Scotch School](https://school.scotch.io/).
+
 
 ## Setup
 
